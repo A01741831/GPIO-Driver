@@ -10,5 +10,4 @@ En el video se muestra como el led primero es PTD1 que es el azul, posteriorment
 [Ver video](Gpio_Driver_Parte1.mp4)
 <video controls width="600">
   <source src="Gpio_Driver_Parte1.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos.
 </video>
