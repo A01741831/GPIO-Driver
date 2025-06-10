@@ -14,7 +14,4 @@ En el video se muestra como el led primero es PTD1 que es el azul, posteriorment
 
 ## Video de la parte 2
 En el video se muestra el funcionamiento del codigo original (sin Driver) y luego el funcionamiento del codigo implementado con Driver donde ambos son codigos que utilizan ADC para cambiar el color del led de la tarjeta usando un potenciometro.
-[Ver video](Gpio_Driver_Parte2.mp4)
-<video controls width="600">
-  <source src="Gpio_Driver_Parte2.mp4" type="video/mp4">
-</video>
+https://drive.google.com/file/d/1xNIZ1vtyatBEBO0Xrx_uKAnF8NHNNc8T/view?usp=drivesdk
